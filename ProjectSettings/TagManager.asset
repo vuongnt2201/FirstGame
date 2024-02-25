@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: UnderWater
+    uniqueID: 2024459177
+    locked: 0
+  - name: Ground
+    uniqueID: 4119276997
+    locked: 0
+  - name: Mountain
+    uniqueID: 3433661561
+    locked: 0
